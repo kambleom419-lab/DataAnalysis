@@ -95,9 +95,4 @@ Loaded an Anime dataset and performed:
 
 ---
 
-## Sample Operations
 
-### Row Sum Validation
-
-```python
-np.sum(s, axis=1)

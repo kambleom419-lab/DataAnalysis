@@ -1,4 +1,4 @@
-# NumPy and Pandas Practice Notebook
+# NumPy , Pandas and Seaborn Practice Notebook
 
 ## Overview
 
